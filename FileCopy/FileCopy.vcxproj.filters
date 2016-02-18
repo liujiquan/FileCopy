@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Util.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCopy.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCopyDoc.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCopyView.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingPage.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingDialog.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgProcSelect.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBarExt.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="ListCtrlExt.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBoxExt.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="HeaderCtrlExt.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Util.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="FileCopy.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileCopyDoc.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileCopyView.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingPage.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingDialog.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgProcSelect.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBarExt.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="ListCtrlExt.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBoxExt.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderCtrlExt.h">
+      <Filter>External</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\FileCopy.ico">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="UserImages.bmp">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\FileCopy.rc2">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\FileCopyDoc.ico">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\icon1.ico">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="ReadMe.txt">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\toolbar1.bmp">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\Toolbar256.bmp">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\toolbar_.bmp" />
+    <None Include="res\bmp00001.bmp" />
+    <None Include="res\idr_main.ico" />
+    <None Include="res\ico00001.ico" />
+    <None Include="FileCopy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Util">
+      <UniqueIdentifier>{fd74c8e4-8c13-4c69-adc1-1b9018ac25ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{ecff8491-9cd6-486f-9063-a83db19f65e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{1e5f33e8-a352-4629-982d-7db1c4e9e8d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{76aba2e8-8cbf-457d-9ae8-a75286af2a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External">
+      <UniqueIdentifier>{5c8a81f8-cff7-4c6a-a195-b36979331335}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="FileCopy.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
